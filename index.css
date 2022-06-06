@@ -1,0 +1,32 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+img {
+    width: auto;
+    height: 300px;
+    
+}
+
+.english{
+    width: 25px;
+    height: 12px;
+    display: flex;
+    justify-content: top;
+    margin-top: -450px;
+    margin-left: 1150px;
+}
+
+.german{
+    width: 25px;
+    height: 12px;
+    display: flex;
+    justify-content: top;
+    margin-top: -450px;
+    margin-left: 1150px;
+}
